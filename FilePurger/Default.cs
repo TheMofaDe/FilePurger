@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using DotNetHelper_Application.Interface;
+﻿using DotNetHelper_Application.Interface;
 using DotNetHelper_DependencyResolver;
 
 namespace FilePurger
